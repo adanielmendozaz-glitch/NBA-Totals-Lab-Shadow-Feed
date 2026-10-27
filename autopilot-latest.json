@@ -2419,9 +2419,9 @@
     }
   ],
   "diagnostics": {
-    "gamesScanned": 68,
+    "gamesScanned": 0,
     "eligible": 16,
-    "recorded": 7,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909880",
