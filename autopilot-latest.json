@@ -1,0 +1,2554 @@
+{
+  "schema": "nba-shadow-autopilot/v1",
+  "season": "2026-27",
+  "generatedAt": "2026-10-27T06:18:33.819Z",
+  "source": "GitHub Actions",
+  "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+  "games": [
+    {
+      "id": "401909088",
+      "day": "2026-10-20",
+      "tip": "2026-10-20T19:00Z",
+      "a": "BOS",
+      "h": "DET",
+      "an": "Boston Celtics",
+      "hn": "Detroit Pistons",
+      "as": 113,
+      "hs": 121,
+      "aq": [
+        28,
+        30,
+        30,
+        25
+      ],
+      "hq": [
+        27,
+        18,
+        37,
+        39
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909089",
+      "day": "2026-10-20",
+      "tip": "2026-10-20T23:00Z",
+      "a": "PHI",
+      "h": "NY",
+      "an": "Philadelphia 76ers",
+      "hn": "New York Knicks",
+      "as": 106,
+      "hs": 100,
+      "aq": [
+        23,
+        31,
+        29,
+        23
+      ],
+      "hq": [
+        25,
+        33,
+        18,
+        24
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909090",
+      "day": "2026-10-20",
+      "tip": "2026-10-21T01:50Z",
+      "a": "OKC",
+      "h": "SA",
+      "an": "Oklahoma City Thunder",
+      "hn": "San Antonio Spurs",
+      "as": 116,
+      "hs": 104,
+      "aq": [
+        34,
+        31,
+        28,
+        23
+      ],
+      "hq": [
+        28,
+        16,
+        36,
+        24
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909091",
+      "day": "2026-10-21",
+      "tip": "2026-10-21T23:30Z",
+      "a": "MIN",
+      "h": "MIA",
+      "an": "Minnesota Timberwolves",
+      "hn": "Miami Heat",
+      "as": 131,
+      "hs": 106,
+      "aq": [
+        34,
+        35,
+        30,
+        32
+      ],
+      "hq": [
+        32,
+        27,
+        22,
+        25
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909092",
+      "day": "2026-10-21",
+      "tip": "2026-10-22T02:00Z",
+      "a": "GS",
+      "h": "LAL",
+      "an": "Golden State Warriors",
+      "hn": "Los Angeles Lakers",
+      "as": 105,
+      "hs": 127,
+      "aq": [
+        33,
+        19,
+        16,
+        37
+      ],
+      "hq": [
+        34,
+        32,
+        36,
+        25
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909093",
+      "day": "2026-10-22",
+      "tip": "2026-10-22T23:00Z",
+      "a": "CLE",
+      "h": "PHI",
+      "an": "Cleveland Cavaliers",
+      "hn": "Philadelphia 76ers",
+      "as": 106,
+      "hs": 114,
+      "aq": [
+        35,
+        34,
+        21,
+        16
+      ],
+      "hq": [
+        18,
+        27,
+        37,
+        32
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909094",
+      "day": "2026-10-22",
+      "tip": "2026-10-23T01:30Z",
+      "a": "DEN",
+      "h": "OKC",
+      "an": "Denver Nuggets",
+      "hn": "Oklahoma City Thunder",
+      "as": 84,
+      "hs": 96,
+      "aq": [
+        27,
+        21,
+        16,
+        20
+      ],
+      "hq": [
+        24,
+        20,
+        26,
+        26
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909095",
+      "day": "2026-10-23",
+      "tip": "2026-10-23T23:00Z",
+      "a": "NY",
+      "h": "BOS",
+      "an": "New York Knicks",
+      "hn": "Boston Celtics",
+      "as": 103,
+      "hs": 107,
+      "aq": [
+        27,
+        22,
+        24,
+        30
+      ],
+      "hq": [
+        26,
+        24,
+        33,
+        24
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909096",
+      "day": "2026-10-23",
+      "tip": "2026-10-24T01:30Z",
+      "a": "HOU",
+      "h": "SA",
+      "an": "Houston Rockets",
+      "hn": "San Antonio Spurs",
+      "as": 114,
+      "hs": 110,
+      "aq": [
+        32,
+        29,
+        24,
+        29
+      ],
+      "hq": [
+        27,
+        32,
+        22,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909834",
+      "day": "2026-10-21",
+      "tip": "2026-10-21T23:00Z",
+      "a": "ATL",
+      "h": "ORL",
+      "an": "Atlanta Hawks",
+      "hn": "Orlando Magic",
+      "as": 132,
+      "hs": 125,
+      "aq": [
+        28,
+        44,
+        27,
+        33
+      ],
+      "hq": [
+        33,
+        29,
+        38,
+        25
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909835",
+      "day": "2026-10-21",
+      "tip": "2026-10-21T23:00Z",
+      "a": "MIL",
+      "h": "WSH",
+      "an": "Milwaukee Bucks",
+      "hn": "Washington Wizards",
+      "as": 116,
+      "hs": 128,
+      "aq": [
+        23,
+        33,
+        37,
+        23
+      ],
+      "hq": [
+        25,
+        26,
+        39,
+        38
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909836",
+      "day": "2026-10-21",
+      "tip": "2026-10-21T23:30Z",
+      "a": "CHA",
+      "h": "BKN",
+      "an": "Charlotte Hornets",
+      "hn": "Brooklyn Nets",
+      "as": 110,
+      "hs": 103,
+      "aq": [
+        27,
+        27,
+        32,
+        24
+      ],
+      "hq": [
+        23,
+        25,
+        33,
+        22
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909837",
+      "day": "2026-10-21",
+      "tip": "2026-10-21T23:30Z",
+      "a": "CHI",
+      "h": "TOR",
+      "an": "Chicago Bulls",
+      "hn": "Toronto Raptors",
+      "as": 92,
+      "hs": 135,
+      "aq": [
+        23,
+        21,
+        27,
+        21
+      ],
+      "hq": [
+        43,
+        26,
+        34,
+        32
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909838",
+      "day": "2026-10-21",
+      "tip": "2026-10-22T00:00Z",
+      "a": "UTAH",
+      "h": "MEM",
+      "an": "Utah Jazz",
+      "hn": "Memphis Grizzlies",
+      "as": 103,
+      "hs": 123,
+      "aq": [
+        31,
+        20,
+        28,
+        24
+      ],
+      "hq": [
+        29,
+        35,
+        34,
+        25
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909839",
+      "day": "2026-10-21",
+      "tip": "2026-10-22T00:00Z",
+      "a": "IND",
+      "h": "NO",
+      "an": "Indiana Pacers",
+      "hn": "New Orleans Pelicans",
+      "as": 123,
+      "hs": 120,
+      "aq": [
+        38,
+        18,
+        30,
+        37
+      ],
+      "hq": [
+        31,
+        35,
+        26,
+        28
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909840",
+      "day": "2026-10-21",
+      "tip": "2026-10-22T00:30Z",
+      "a": "DAL",
+      "h": "HOU",
+      "an": "Dallas Mavericks",
+      "hn": "Houston Rockets",
+      "as": 110,
+      "hs": 128,
+      "aq": [
+        26,
+        12,
+        38,
+        34
+      ],
+      "hq": [
+        32,
+        38,
+        30,
+        28
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909841",
+      "day": "2026-10-21",
+      "tip": "2026-10-22T02:00Z",
+      "a": "PHX",
+      "h": "POR",
+      "an": "Phoenix Suns",
+      "hn": "Portland Trail Blazers",
+      "as": 83,
+      "hs": 124,
+      "aq": [
+        12,
+        27,
+        27,
+        17
+      ],
+      "hq": [
+        43,
+        29,
+        35,
+        17
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909842",
+      "day": "2026-10-21",
+      "tip": "2026-10-22T02:30Z",
+      "a": "SAC",
+      "h": "LAC",
+      "an": "Sacramento Kings",
+      "hn": "LA Clippers",
+      "as": 96,
+      "hs": 121,
+      "aq": [
+        29,
+        25,
+        16,
+        26
+      ],
+      "hq": [
+        41,
+        20,
+        32,
+        28
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909843",
+      "day": "2026-10-23",
+      "tip": "2026-10-23T23:00Z",
+      "a": "ATL",
+      "h": "CHA",
+      "an": "Atlanta Hawks",
+      "hn": "Charlotte Hornets",
+      "as": 128,
+      "hs": 81,
+      "aq": [
+        33,
+        35,
+        29,
+        31
+      ],
+      "hq": [
+        20,
+        23,
+        19,
+        19
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909844",
+      "day": "2026-10-23",
+      "tip": "2026-10-23T23:00Z",
+      "a": "DAL",
+      "h": "IND",
+      "an": "Dallas Mavericks",
+      "hn": "Indiana Pacers",
+      "as": 121,
+      "hs": 105,
+      "aq": [
+        44,
+        33,
+        21,
+        23
+      ],
+      "hq": [
+        27,
+        16,
+        33,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909845",
+      "day": "2026-10-23",
+      "tip": "2026-10-23T23:00Z",
+      "a": "MIN",
+      "h": "ORL",
+      "an": "Minnesota Timberwolves",
+      "hn": "Orlando Magic",
+      "as": 115,
+      "hs": 93,
+      "aq": [
+        26,
+        31,
+        29,
+        29
+      ],
+      "hq": [
+        20,
+        25,
+        15,
+        33
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909846",
+      "day": "2026-10-23",
+      "tip": "2026-10-23T23:00Z",
+      "a": "TOR",
+      "h": "WSH",
+      "an": "Toronto Raptors",
+      "hn": "Washington Wizards",
+      "as": 112,
+      "hs": 102,
+      "aq": [
+        34,
+        26,
+        21,
+        31
+      ],
+      "hq": [
+        21,
+        31,
+        25,
+        25
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909847",
+      "day": "2026-10-23",
+      "tip": "2026-10-24T00:00Z",
+      "a": "DET",
+      "h": "MIA",
+      "an": "Detroit Pistons",
+      "hn": "Miami Heat",
+      "as": 128,
+      "hs": 111,
+      "aq": [
+        41,
+        24,
+        38,
+        25
+      ],
+      "hq": [
+        26,
+        27,
+        27,
+        31
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909848",
+      "day": "2026-10-23",
+      "tip": "2026-10-23T20:00Z",
+      "a": "CHI",
+      "h": "MIL",
+      "an": "Chicago Bulls",
+      "hn": "Milwaukee Bucks",
+      "as": 132,
+      "hs": 125,
+      "aq": [
+        17,
+        44,
+        41,
+        30
+      ],
+      "hq": [
+        32,
+        30,
+        42,
+        21
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909849",
+      "day": "2026-10-23",
+      "tip": "2026-10-24T01:30Z",
+      "a": "NO",
+      "h": "UTAH",
+      "an": "New Orleans Pelicans",
+      "hn": "Utah Jazz",
+      "as": 119,
+      "hs": 120,
+      "aq": [
+        28,
+        24,
+        38,
+        29
+      ],
+      "hq": [
+        31,
+        31,
+        24,
+        34
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909850",
+      "day": "2026-10-23",
+      "tip": "2026-10-24T02:00Z",
+      "a": "MEM",
+      "h": "GS",
+      "an": "Memphis Grizzlies",
+      "hn": "Golden State Warriors",
+      "as": 111,
+      "hs": 108,
+      "aq": [
+        33,
+        27,
+        24,
+        27
+      ],
+      "hq": [
+        34,
+        22,
+        34,
+        18
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909851",
+      "day": "2026-10-23",
+      "tip": "2026-10-24T02:00Z",
+      "a": "LAC",
+      "h": "LAL",
+      "an": "LA Clippers",
+      "hn": "Los Angeles Lakers",
+      "as": 117,
+      "hs": 125,
+      "aq": [
+        31,
+        33,
+        26,
+        27
+      ],
+      "hq": [
+        27,
+        37,
+        39,
+        22
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909852",
+      "day": "2026-10-23",
+      "tip": "2026-10-24T02:00Z",
+      "a": "POR",
+      "h": "SAC",
+      "an": "Portland Trail Blazers",
+      "hn": "Sacramento Kings",
+      "as": 128,
+      "hs": 120,
+      "aq": [
+        27,
+        32,
+        44,
+        25
+      ],
+      "hq": [
+        33,
+        31,
+        26,
+        30
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909853",
+      "day": "2026-10-24",
+      "tip": "2026-10-24T22:00Z",
+      "a": "MIA",
+      "h": "CHA",
+      "an": "Miami Heat",
+      "hn": "Charlotte Hornets",
+      "as": 110,
+      "hs": 115,
+      "aq": [
+        31,
+        27,
+        17,
+        35
+      ],
+      "hq": [
+        31,
+        35,
+        30,
+        19
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909854",
+      "day": "2026-10-24",
+      "tip": "2026-10-24T23:30Z",
+      "a": "BKN",
+      "h": "CLE",
+      "an": "Brooklyn Nets",
+      "hn": "Cleveland Cavaliers",
+      "as": 121,
+      "hs": 125,
+      "aq": [
+        30,
+        24,
+        26,
+        41
+      ],
+      "hq": [
+        35,
+        33,
+        28,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909855",
+      "day": "2026-10-24",
+      "tip": "2026-10-24T23:30Z",
+      "a": "MIL",
+      "h": "PHI",
+      "an": "Milwaukee Bucks",
+      "hn": "Philadelphia 76ers",
+      "as": 116,
+      "hs": 127,
+      "aq": [
+        25,
+        35,
+        27,
+        29
+      ],
+      "hq": [
+        34,
+        30,
+        33,
+        30
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909856",
+      "day": "2026-10-24",
+      "tip": "2026-10-25T00:30Z",
+      "a": "HOU",
+      "h": "ATL",
+      "an": "Houston Rockets",
+      "hn": "Atlanta Hawks",
+      "as": 121,
+      "hs": 114,
+      "aq": [
+        30,
+        29,
+        33,
+        29
+      ],
+      "hq": [
+        26,
+        22,
+        33,
+        33
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909857",
+      "day": "2026-10-24",
+      "tip": "2026-10-25T00:00Z",
+      "a": "WSH",
+      "h": "CHI",
+      "an": "Washington Wizards",
+      "hn": "Chicago Bulls",
+      "as": 124,
+      "hs": 120,
+      "aq": [
+        28,
+        29,
+        40,
+        27
+      ],
+      "hq": [
+        27,
+        35,
+        20,
+        38
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909858",
+      "day": "2026-10-24",
+      "tip": "2026-10-25T00:00Z",
+      "a": "SA",
+      "h": "DAL",
+      "an": "San Antonio Spurs",
+      "hn": "Dallas Mavericks",
+      "as": 122,
+      "hs": 106,
+      "aq": [
+        32,
+        36,
+        24,
+        30
+      ],
+      "hq": [
+        31,
+        29,
+        29,
+        17
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909859",
+      "day": "2026-10-24",
+      "tip": "2026-10-25T01:00Z",
+      "a": "NO",
+      "h": "DEN",
+      "an": "New Orleans Pelicans",
+      "hn": "Denver Nuggets",
+      "as": 135,
+      "hs": 141,
+      "aq": [
+        38,
+        35,
+        35,
+        18
+      ],
+      "hq": [
+        24,
+        33,
+        32,
+        37
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909860",
+      "day": "2026-10-24",
+      "tip": "2026-10-25T02:00Z",
+      "a": "GS",
+      "h": "PHX",
+      "an": "Golden State Warriors",
+      "hn": "Phoenix Suns",
+      "as": 122,
+      "hs": 131,
+      "aq": [
+        25,
+        29,
+        38,
+        30
+      ],
+      "hq": [
+        22,
+        35,
+        45,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909861",
+      "day": "2026-10-25",
+      "tip": "2026-10-25T21:00Z",
+      "a": "LAL",
+      "h": "UTAH",
+      "an": "Los Angeles Lakers",
+      "hn": "Utah Jazz",
+      "as": 132,
+      "hs": 123,
+      "aq": [
+        29,
+        45,
+        29,
+        29
+      ],
+      "hq": [
+        47,
+        24,
+        29,
+        23
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909862",
+      "day": "2026-10-25",
+      "tip": "2026-10-25T22:00Z",
+      "a": "IND",
+      "h": "BKN",
+      "an": "Indiana Pacers",
+      "hn": "Brooklyn Nets",
+      "as": 136,
+      "hs": 109,
+      "aq": [
+        24,
+        41,
+        37,
+        34
+      ],
+      "hq": [
+        26,
+        30,
+        24,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909863",
+      "day": "2026-10-25",
+      "tip": "2026-10-25T23:00Z",
+      "a": "ORL",
+      "h": "NY",
+      "an": "Orlando Magic",
+      "hn": "New York Knicks",
+      "as": 111,
+      "hs": 102,
+      "aq": [
+        21,
+        27,
+        23,
+        40
+      ],
+      "hq": [
+        28,
+        24,
+        23,
+        27
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909864",
+      "day": "2026-10-25",
+      "tip": "2026-10-25T23:00Z",
+      "a": "TOR",
+      "h": "MIN",
+      "an": "Toronto Raptors",
+      "hn": "Minnesota Timberwolves",
+      "as": 94,
+      "hs": 117,
+      "aq": [
+        21,
+        26,
+        15,
+        32
+      ],
+      "hq": [
+        32,
+        23,
+        35,
+        27
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909865",
+      "day": "2026-10-25",
+      "tip": "2026-10-25T23:00Z",
+      "a": "LAC",
+      "h": "OKC",
+      "an": "LA Clippers",
+      "hn": "Oklahoma City Thunder",
+      "as": 101,
+      "hs": 108,
+      "aq": [
+        20,
+        26,
+        30,
+        25
+      ],
+      "hq": [
+        23,
+        20,
+        34,
+        31
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909866",
+      "day": "2026-10-25",
+      "tip": "2026-10-25T23:30Z",
+      "a": "DET",
+      "h": "PHI",
+      "an": "Detroit Pistons",
+      "hn": "Philadelphia 76ers",
+      "as": 106,
+      "hs": 93,
+      "aq": [
+        34,
+        22,
+        23,
+        27
+      ],
+      "hq": [
+        22,
+        22,
+        25,
+        24
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909867",
+      "day": "2026-10-25",
+      "tip": "2026-10-26T01:00Z",
+      "a": "MEM",
+      "h": "SAC",
+      "an": "Memphis Grizzlies",
+      "hn": "Sacramento Kings",
+      "as": 123,
+      "hs": 112,
+      "aq": [
+        25,
+        42,
+        29,
+        27
+      ],
+      "hq": [
+        28,
+        31,
+        31,
+        22
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909868",
+      "day": "2026-10-26",
+      "tip": "2026-10-26T23:00Z",
+      "a": "WSH",
+      "h": "CHA",
+      "an": "Washington Wizards",
+      "hn": "Charlotte Hornets",
+      "as": 103,
+      "hs": 110,
+      "aq": [
+        21,
+        23,
+        24,
+        35
+      ],
+      "hq": [
+        19,
+        35,
+        26,
+        30
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909869",
+      "day": "2026-10-26",
+      "tip": "2026-10-26T23:00Z",
+      "a": "MIN",
+      "h": "CLE",
+      "an": "Minnesota Timberwolves",
+      "hn": "Cleveland Cavaliers",
+      "as": 125,
+      "hs": 127,
+      "aq": [
+        31,
+        29,
+        26,
+        27
+      ],
+      "hq": [
+        24,
+        26,
+        36,
+        27
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909870",
+      "day": "2026-10-26",
+      "tip": "2026-10-26T23:30Z",
+      "a": "CHI",
+      "h": "BOS",
+      "an": "Chicago Bulls",
+      "hn": "Boston Celtics",
+      "as": 99,
+      "hs": 134,
+      "aq": [
+        21,
+        33,
+        21,
+        24
+      ],
+      "hq": [
+        33,
+        33,
+        39,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909871",
+      "day": "2026-10-26",
+      "tip": "2026-10-26T23:30Z",
+      "a": "DAL",
+      "h": "MIA",
+      "an": "Dallas Mavericks",
+      "hn": "Miami Heat",
+      "as": 113,
+      "hs": 109,
+      "aq": [
+        23,
+        30,
+        30,
+        30
+      ],
+      "hq": [
+        27,
+        25,
+        32,
+        25
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909872",
+      "day": "2026-10-26",
+      "tip": "2026-10-27T00:00Z",
+      "a": "IND",
+      "h": "MIL",
+      "an": "Indiana Pacers",
+      "hn": "Milwaukee Bucks",
+      "as": 102,
+      "hs": 110,
+      "aq": [
+        29,
+        32,
+        24,
+        17
+      ],
+      "hq": [
+        31,
+        19,
+        34,
+        26
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909873",
+      "day": "2026-10-26",
+      "tip": "2026-10-27T00:00Z",
+      "a": "PHX",
+      "h": "OKC",
+      "an": "Phoenix Suns",
+      "hn": "Oklahoma City Thunder",
+      "as": 114,
+      "hs": 125,
+      "aq": [
+        27,
+        26,
+        32,
+        29
+      ],
+      "hq": [
+        33,
+        34,
+        32,
+        26
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909874",
+      "day": "2026-10-26",
+      "tip": "2026-10-27T00:30Z",
+      "a": "ATL",
+      "h": "HOU",
+      "an": "Atlanta Hawks",
+      "hn": "Houston Rockets",
+      "as": 110,
+      "hs": 120,
+      "aq": [
+        35,
+        31,
+        19,
+        25
+      ],
+      "hq": [
+        32,
+        31,
+        28,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909875",
+      "day": "2026-10-26",
+      "tip": "2026-10-27T01:00Z",
+      "a": "MEM",
+      "h": "UTAH",
+      "an": "Memphis Grizzlies",
+      "hn": "Utah Jazz",
+      "as": 110,
+      "hs": 105,
+      "aq": [
+        30,
+        28,
+        31,
+        21
+      ],
+      "hq": [
+        21,
+        31,
+        24,
+        29
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909876",
+      "day": "2026-10-26",
+      "tip": "2026-10-27T02:00Z",
+      "a": "GS",
+      "h": "DEN",
+      "an": "Golden State Warriors",
+      "hn": "Denver Nuggets",
+      "as": 134,
+      "hs": 114,
+      "aq": [
+        28,
+        32,
+        40,
+        34
+      ],
+      "hq": [
+        32,
+        24,
+        28,
+        30
+      ],
+      "final": true,
+      "live": false,
+      "phase": 2,
+      "state": "post"
+    },
+    {
+      "id": "401909877",
+      "day": "2026-10-27",
+      "tip": "2026-10-27T23:30Z",
+      "a": "BKN",
+      "h": "BOS",
+      "an": "Brooklyn Nets",
+      "hn": "Boston Celtics",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909878",
+      "day": "2026-10-27",
+      "tip": "2026-10-28T00:00Z",
+      "a": "DET",
+      "h": "NY",
+      "an": "Detroit Pistons",
+      "hn": "New York Knicks",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909879",
+      "day": "2026-10-27",
+      "tip": "2026-10-28T00:00Z",
+      "a": "SAC",
+      "h": "SA",
+      "an": "Sacramento Kings",
+      "hn": "San Antonio Spurs",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909880",
+      "day": "2026-10-27",
+      "tip": "2026-10-28T03:00Z",
+      "a": "POR",
+      "h": "LAL",
+      "an": "Portland Trail Blazers",
+      "hn": "Los Angeles Lakers",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909881",
+      "day": "2026-10-28",
+      "tip": "2026-10-28T23:00Z",
+      "a": "MIA",
+      "h": "ATL",
+      "an": "Miami Heat",
+      "hn": "Atlanta Hawks",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909882",
+      "day": "2026-10-28",
+      "tip": "2026-10-28T23:00Z",
+      "a": "WSH",
+      "h": "CLE",
+      "an": "Washington Wizards",
+      "hn": "Cleveland Cavaliers",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909883",
+      "day": "2026-10-28",
+      "tip": "2026-10-28T23:00Z",
+      "a": "CHA",
+      "h": "DET",
+      "an": "Charlotte Hornets",
+      "hn": "Detroit Pistons",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909884",
+      "day": "2026-10-28",
+      "tip": "2026-10-28T23:00Z",
+      "a": "PHI",
+      "h": "IND",
+      "an": "Philadelphia 76ers",
+      "hn": "Indiana Pacers",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909885",
+      "day": "2026-10-28",
+      "tip": "2026-10-28T23:30Z",
+      "a": "ORL",
+      "h": "TOR",
+      "an": "Orlando Magic",
+      "hn": "Toronto Raptors",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909886",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T00:00Z",
+      "a": "NY",
+      "h": "CHI",
+      "an": "New York Knicks",
+      "hn": "Chicago Bulls",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909887",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T00:00Z",
+      "a": "HOU",
+      "h": "MIL",
+      "an": "Houston Rockets",
+      "hn": "Milwaukee Bucks",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909888",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T00:00Z",
+      "a": "GS",
+      "h": "MIN",
+      "an": "Golden State Warriors",
+      "hn": "Minnesota Timberwolves",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909889",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T00:00Z",
+      "a": "DEN",
+      "h": "NO",
+      "an": "Denver Nuggets",
+      "hn": "New Orleans Pelicans",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909890",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T01:00Z",
+      "a": "SA",
+      "h": "UTAH",
+      "an": "San Antonio Spurs",
+      "hn": "Utah Jazz",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909891",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T01:30Z",
+      "a": "OKC",
+      "h": "DAL",
+      "an": "Oklahoma City Thunder",
+      "hn": "Dallas Mavericks",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    },
+    {
+      "id": "401909892",
+      "day": "2026-10-28",
+      "tip": "2026-10-29T02:30Z",
+      "a": "LAL",
+      "h": "LAC",
+      "an": "Los Angeles Lakers",
+      "hn": "LA Clippers",
+      "as": 0,
+      "hs": 0,
+      "aq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "hq": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "final": false,
+      "live": false,
+      "phase": 2,
+      "state": "pre"
+    }
+  ],
+  "snapshots": [
+    {
+      "id": "401909877|H1",
+      "gameId": "401909877",
+      "market": "H1",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-27T23:30Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-10-27T06:15:05Z",
+      "overOdds": 1.877,
+      "underOdds": 1.943,
+      "mu": 112.82027500000002,
+      "sd": 12.407414059669263,
+      "na": 3,
+      "nh": 3,
+      "line": 113.5,
+      "side": "UNDER",
+      "p": 0.5243416666666666,
+      "rawP": {
+        "poisson": 0.5286,
+        "markov": 0.5216,
+        "nb": 0.522,
+        "biv": 0.5289,
+        "bootstrap": 0.5315,
+        "bayes": 0.51345
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.4714,
+          "under": 0.5286,
+          "mean": 112.73145,
+          "sd": 13.372390620135985
+        },
+        "markov": {
+          "over": 0.4784,
+          "under": 0.5216,
+          "mean": 112.8572,
+          "sd": 11.620628561312769
+        },
+        "nb": {
+          "over": 0.478,
+          "under": 0.522,
+          "mean": 112.90745,
+          "sd": 11.507996545772075
+        },
+        "biv": {
+          "over": 0.4711,
+          "under": 0.5289,
+          "mean": 112.6668,
+          "sd": 11.193019153025796
+        },
+        "bootstrap": {
+          "over": 0.4685,
+          "under": 0.5315,
+          "mean": 112.7561,
+          "sd": 9.347695587148644
+        },
+        "bayes": {
+          "over": 0.48655,
+          "under": 0.51345,
+          "mean": 113.00265,
+          "sd": 17.402753890620307
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401909877|FG",
+      "gameId": "401909877",
+      "market": "FG",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-27T23:30Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "DraftKings",
+      "quoteSource": "ESPN FG",
+      "quoteAt": "2026-10-27T06:18:33.819Z",
+      "overOdds": null,
+      "underOdds": null,
+      "mu": 229.58134999999996,
+      "sd": 19.669705158913988,
+      "na": 3,
+      "nh": 3,
+      "line": 222.5,
+      "side": "OVER",
+      "p": 0.6418916666666666,
+      "rawP": {
+        "poisson": 0.62155,
+        "markov": 0.6592,
+        "nb": 0.6442,
+        "biv": 0.65595,
+        "bootstrap": 0.66455,
+        "bayes": 0.6059
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.62155,
+          "under": 0.37845,
+          "mean": 229.6229,
+          "sd": 22.119965994323003
+        },
+        "markov": {
+          "over": 0.6592,
+          "under": 0.3408,
+          "mean": 229.5518,
+          "sd": 16.631900575700936
+        },
+        "nb": {
+          "over": 0.6442,
+          "under": 0.3558,
+          "mean": 229.49075,
+          "sd": 18.342042264630813
+        },
+        "biv": {
+          "over": 0.65595,
+          "under": 0.34405,
+          "mean": 229.66445,
+          "sd": 17.65447411274265
+        },
+        "bootstrap": {
+          "over": 0.66455,
+          "under": 0.33545,
+          "mean": 229.6244,
+          "sd": 15.579772932876795
+        },
+        "bayes": {
+          "over": 0.6059,
+          "under": 0.3941,
+          "mean": 229.5338,
+          "sd": 27.690075073209748
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401909878|H1",
+      "gameId": "401909878",
+      "market": "H1",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-28T00:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-10-27T06:15:05Z",
+      "overOdds": 1.909,
+      "underOdds": 1.909,
+      "mu": 109.85505833333333,
+      "sd": 12.360255808681991,
+      "na": 3,
+      "nh": 3,
+      "line": 112.5,
+      "side": "UNDER",
+      "p": 0.5866583333333333,
+      "rawP": {
+        "poisson": 0.5874,
+        "markov": 0.5893,
+        "nb": 0.58905,
+        "biv": 0.59445,
+        "bootstrap": 0.59715,
+        "bayes": 0.5626
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.4126,
+          "under": 0.5874,
+          "mean": 109.7709,
+          "sd": 13.112391589256346
+        },
+        "markov": {
+          "over": 0.4107,
+          "under": 0.5893,
+          "mean": 109.9275,
+          "sd": 11.360552088256954
+        },
+        "nb": {
+          "over": 0.41095,
+          "under": 0.58905,
+          "mean": 109.90905,
+          "sd": 11.374778155968622
+        },
+        "biv": {
+          "over": 0.40555,
+          "under": 0.59445,
+          "mean": 109.83385,
+          "sd": 11.00183821811159
+        },
+        "bootstrap": {
+          "over": 0.40285,
+          "under": 0.59715,
+          "mean": 109.83775,
+          "sd": 10.019462307803805
+        },
+        "bayes": {
+          "over": 0.4374,
+          "under": 0.5626,
+          "mean": 109.8513,
+          "sd": 17.29251249269463
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401909878|FG",
+      "gameId": "401909878",
+      "market": "FG",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-28T00:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "DraftKings",
+      "quoteSource": "ESPN FG",
+      "quoteAt": "2026-10-27T06:18:33.819Z",
+      "overOdds": null,
+      "underOdds": null,
+      "mu": 222.97835,
+      "sd": 18.335547285776574,
+      "na": 3,
+      "nh": 3,
+      "line": 218.5,
+      "side": "OVER",
+      "p": 0.6008249999999999,
+      "rawP": {
+        "poisson": 0.58,
+        "markov": 0.6087,
+        "nb": 0.60015,
+        "biv": 0.60345,
+        "bootstrap": 0.6397,
+        "bayes": 0.57295
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.58,
+          "under": 0.42,
+          "mean": 223.09355,
+          "sd": 21.770059678317352
+        },
+        "markov": {
+          "over": 0.6087,
+          "under": 0.3913,
+          "mean": 223.01545,
+          "sd": 16.17016114012172
+        },
+        "nb": {
+          "over": 0.60015,
+          "under": 0.39985,
+          "mean": 222.8227,
+          "sd": 16.911654700531322
+        },
+        "biv": {
+          "over": 0.60345,
+          "under": 0.39655,
+          "mean": 222.7938,
+          "sd": 16.439576684330934
+        },
+        "bootstrap": {
+          "over": 0.6397,
+          "under": 0.3603,
+          "mean": 223.0234,
+          "sd": 13.032166068616299
+        },
+        "bayes": {
+          "over": 0.57295,
+          "under": 0.42705,
+          "mean": 223.1212,
+          "sd": 25.689665442741806
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401909879|H1",
+      "gameId": "401909879",
+      "market": "H1",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-28T00:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-10-27T06:15:05Z",
+      "overOdds": 1.98,
+      "underOdds": 1.833,
+      "mu": 117.32839999999999,
+      "sd": 12.995964259465575,
+      "na": 3,
+      "nh": 3,
+      "line": 118.5,
+      "side": "UNDER",
+      "p": 0.5366,
+      "rawP": {
+        "poisson": 0.54185,
+        "markov": 0.54145,
+        "nb": 0.5355,
+        "biv": 0.5506,
+        "bootstrap": 0.52325,
+        "bayes": 0.52695
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.45815,
+          "under": 0.54185,
+          "mean": 117.26785,
+          "sd": 13.721035178786686
+        },
+        "markov": {
+          "over": 0.45855,
+          "under": 0.54145,
+          "mean": 117.27355,
+          "sd": 12.146819353126977
+        },
+        "nb": {
+          "over": 0.4645,
+          "under": 0.5355,
+          "mean": 117.49355,
+          "sd": 11.902002285224961
+        },
+        "biv": {
+          "over": 0.4494,
+          "under": 0.5506,
+          "mean": 117.207,
+          "sd": 11.39095039933025
+        },
+        "bootstrap": {
+          "over": 0.47675,
+          "under": 0.52325,
+          "mean": 117.4331,
+          "sd": 11.024047550242203
+        },
+        "bayes": {
+          "over": 0.47305,
+          "under": 0.52695,
+          "mean": 117.29535,
+          "sd": 17.790930790082378
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401909879|FG",
+      "gameId": "401909879",
+      "market": "FG",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-28T00:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "DraftKings",
+      "quoteSource": "ESPN FG",
+      "quoteAt": "2026-10-27T06:18:33.819Z",
+      "overOdds": null,
+      "underOdds": null,
+      "mu": 228.9505916666667,
+      "sd": 18.729592919580597,
+      "na": 3,
+      "nh": 3,
+      "line": 230.5,
+      "side": "UNDER",
+      "p": 0.5346583333333333,
+      "rawP": {
+        "poisson": 0.5369,
+        "markov": 0.5323,
+        "nb": 0.5372,
+        "biv": 0.5384,
+        "bootstrap": 0.5388,
+        "bayes": 0.52435
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.4631,
+          "under": 0.5369,
+          "mean": 228.82635,
+          "sd": 22.15478493864273
+        },
+        "markov": {
+          "over": 0.4677,
+          "under": 0.5323,
+          "mean": 229.1134,
+          "sd": 17.035575729631173
+        },
+        "nb": {
+          "over": 0.4628,
+          "under": 0.5372,
+          "mean": 228.8776,
+          "sd": 16.9014058066185
+        },
+        "biv": {
+          "over": 0.4616,
+          "under": 0.5384,
+          "mean": 228.89255,
+          "sd": 16.39817381593149
+        },
+        "bootstrap": {
+          "over": 0.4612,
+          "under": 0.5388,
+          "mean": 229.01495,
+          "sd": 14.404829971141487
+        },
+        "bayes": {
+          "over": 0.47565,
+          "under": 0.52435,
+          "mean": 228.9787,
+          "sd": 25.482787255518197
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401909884|FG",
+      "gameId": "401909884",
+      "market": "FG",
+      "createdAt": "2026-10-27T06:18:33.819Z",
+      "gameTip": "2026-10-28T23:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.7-AUTOPILOT-SIX",
+      "book": "DraftKings",
+      "quoteSource": "ESPN FG",
+      "quoteAt": "2026-10-27T06:18:33.819Z",
+      "overOdds": null,
+      "underOdds": null,
+      "mu": 226.39428333333333,
+      "sd": 18.964091007019583,
+      "na": 4,
+      "nh": 4,
+      "line": 238.5,
+      "side": "UNDER",
+      "p": 0.7429666666666666,
+      "rawP": {
+        "poisson": 0.715,
+        "markov": 0.77355,
+        "nb": 0.76305,
+        "biv": 0.76565,
+        "bootstrap": 0.74825,
+        "bayes": 0.6923
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.285,
+          "under": 0.715,
+          "mean": 226.36045,
+          "sd": 21.795075723601254
+        },
+        "markov": {
+          "over": 0.22645,
+          "under": 0.77355,
+          "mean": 226.32495,
+          "sd": 16.255945296952124
+        },
+        "nb": {
+          "over": 0.23695,
+          "under": 0.76305,
+          "mean": 226.2671,
+          "sd": 17.04917468940956
+        },
+        "biv": {
+          "over": 0.23435,
+          "under": 0.76565,
+          "mean": 226.39655,
+          "sd": 16.662577774687275
+        },
+        "bootstrap": {
+          "over": 0.25175,
+          "under": 0.74825,
+          "mean": 226.4068,
+          "sd": 17.725154830353432
+        },
+        "bayes": {
+          "over": 0.3077,
+          "under": 0.6923,
+          "mean": 226.60985,
+          "sd": 24.29661772711385
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16666666666666666,
+        "markov": 0.16666666666666666,
+        "nb": 0.16666666666666666,
+        "biv": 0.16666666666666666,
+        "bootstrap": 0.16666666666666666,
+        "bayes": 0.16666666666666666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    }
+  ],
+  "diagnostics": {
+    "gamesScanned": 68,
+    "eligible": 16,
+    "recorded": 7,
+    "missing": [
+      {
+        "gameId": "401909880",
+        "market": "H1",
+        "reason": "INSUFFICIENT_SAMPLE"
+      },
+      {
+        "gameId": "401909880",
+        "market": "FG",
+        "reason": "INSUFFICIENT_SAMPLE"
+      },
+      {
+        "gameId": "401909881",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909881",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909882",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909882",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909883",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909883",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909884",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909885",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909885",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909886",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909886",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909887",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909887",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909888",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909888",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909889",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909889",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909890",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909890",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909891",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909891",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909892",
+        "market": "H1",
+        "reason": "NO_VERIFIED_LINE"
+      },
+      {
+        "gameId": "401909892",
+        "market": "FG",
+        "reason": "NO_VERIFIED_LINE"
+      }
+    ],
+    "fetchErrors": []
+  }
+}
