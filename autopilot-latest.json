@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-10-29T21:06:39.253Z",
+  "generatedAt": "2026-10-30T00:57:24.955Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -2119,24 +2119,24 @@
       "h": "ATL",
       "an": "Cleveland Cavaliers",
       "hn": "Atlanta Hawks",
-      "as": 0,
-      "hs": 0,
+      "as": 37,
+      "hs": 37,
       "aq": [
-        null,
-        null,
+        28,
+        9,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        16,
+        21,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909894",
@@ -2146,24 +2146,24 @@
       "h": "NO",
       "an": "Sacramento Kings",
       "hn": "New Orleans Pelicans",
-      "as": 0,
-      "hs": 0,
+      "as": 41,
+      "hs": 45,
       "aq": [
-        null,
-        null,
+        30,
+        11,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        24,
+        21,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909895",
@@ -6202,9 +6202,9 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 13,
+    "eligible": 11,
     "h1PbpAdded": 0,
-    "recorded": 10,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909277",
