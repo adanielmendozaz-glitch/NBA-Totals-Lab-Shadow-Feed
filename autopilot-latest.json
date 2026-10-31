@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-10-31T19:57:09.631Z",
+  "generatedAt": "2026-10-31T23:21:55.994Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -2200,24 +2200,24 @@
       "h": "UTAH",
       "an": "Portland Trail Blazers",
       "hn": "Utah Jazz",
-      "as": 44,
-      "hs": 28,
+      "as": 112,
+      "hs": 90,
       "aq": [
         27,
-        17,
-        null,
-        null
+        32,
+        29,
+        24
       ],
       "hq": [
         18,
-        10,
-        null,
-        null
+        24,
+        22,
+        26
       ],
-      "final": false,
-      "live": true,
+      "final": true,
+      "live": false,
       "phase": 2,
-      "state": "in"
+      "state": "post"
     },
     {
       "id": "401909897",
@@ -2227,24 +2227,24 @@
       "h": "CHA",
       "an": "Philadelphia 76ers",
       "hn": "Charlotte Hornets",
-      "as": 0,
-      "hs": 0,
+      "as": 57,
+      "hs": 54,
       "aq": [
-        null,
-        null,
+        27,
+        30,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        37,
+        17,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909898",
@@ -2254,24 +2254,24 @@
       "h": "NO",
       "an": "Atlanta Hawks",
       "hn": "New Orleans Pelicans",
-      "as": 0,
-      "hs": 0,
+      "as": 6,
+      "hs": 12,
       "aq": [
-        null,
+        6,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        12,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909899",
@@ -7366,10 +7366,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 202,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909898|FG",
@@ -7621,10 +7622,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 101,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909897|H1",
@@ -8480,7 +8482,7 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 10,
+    "eligible": 8,
     "h1PbpAdded": 0,
     "recorded": 0,
     "missing": [
