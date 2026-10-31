@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-10-31T13:37:15.643Z",
+  "generatedAt": "2026-10-31T19:57:09.631Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -2200,24 +2200,24 @@
       "h": "UTAH",
       "an": "Portland Trail Blazers",
       "hn": "Utah Jazz",
-      "as": 0,
-      "hs": 0,
+      "as": 44,
+      "hs": 28,
       "aq": [
-        null,
-        null,
+        27,
+        17,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        18,
+        10,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909897",
@@ -8480,9 +8480,9 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 11,
+    "eligible": 10,
     "h1PbpAdded": 0,
-    "recorded": 1,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909903",
