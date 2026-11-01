@@ -9578,10 +9578,10 @@
   ],
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 15,
+    "gamesScanned": 0,
     "eligible": 19,
     "h1PbpAdded": 0,
-    "recorded": 5,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909907",
