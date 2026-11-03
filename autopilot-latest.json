@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-02T15:41:33.984Z",
+  "generatedAt": "2026-11-03T04:02:02.867Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -2497,24 +2497,24 @@
       "h": "CLE",
       "an": "Oklahoma City Thunder",
       "hn": "Cleveland Cavaliers",
-      "as": 0,
-      "hs": 0,
+      "as": 117,
+      "hs": 112,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        26,
+        33,
+        31,
+        27
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        30,
+        18,
+        36,
+        28
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909908",
@@ -2524,24 +2524,24 @@
       "h": "CHA",
       "an": "Detroit Pistons",
       "hn": "Charlotte Hornets",
-      "as": 0,
-      "hs": 0,
+      "as": 124,
+      "hs": 91,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        27,
+        38,
+        33,
+        26
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        24,
+        30,
+        21,
+        16
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909909",
@@ -2551,24 +2551,24 @@
       "h": "IND",
       "an": "Atlanta Hawks",
       "hn": "Indiana Pacers",
-      "as": 0,
-      "hs": 0,
+      "as": 108,
+      "hs": 104,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        37,
+        31,
+        19,
+        21
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        27,
+        23,
+        25
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909910",
@@ -2578,24 +2578,24 @@
       "h": "NY",
       "an": "Brooklyn Nets",
       "hn": "New York Knicks",
-      "as": 0,
-      "hs": 0,
+      "as": 90,
+      "hs": 103,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        21,
+        23,
+        35,
+        11
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        27,
+        24,
+        24,
+        28
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909911",
@@ -2605,24 +2605,24 @@
       "h": "ORL",
       "an": "Washington Wizards",
       "hn": "Orlando Magic",
-      "as": 0,
-      "hs": 0,
+      "as": 103,
+      "hs": 94,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        28,
+        32,
+        19,
+        24
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        33,
+        26,
+        9,
+        26
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909912",
@@ -2632,24 +2632,24 @@
       "h": "PHI",
       "an": "Chicago Bulls",
       "hn": "Philadelphia 76ers",
-      "as": 0,
-      "hs": 0,
+      "as": 107,
+      "hs": 126,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        23,
+        36,
+        20,
+        28
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        30,
+        34,
+        26,
+        36
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909913",
@@ -2659,24 +2659,24 @@
       "h": "DAL",
       "an": "Sacramento Kings",
       "hn": "Dallas Mavericks",
-      "as": 0,
-      "hs": 0,
+      "as": 115,
+      "hs": 100,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        19,
+        35,
+        27,
+        34
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        18,
+        35,
+        21,
+        26
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909914",
@@ -2686,24 +2686,24 @@
       "h": "MEM",
       "an": "New Orleans Pelicans",
       "hn": "Memphis Grizzlies",
-      "as": 0,
-      "hs": 0,
+      "as": 135,
+      "hs": 134,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        34,
+        25,
+        41,
+        24
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        31,
+        31,
+        33,
+        29
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909915",
@@ -2713,24 +2713,24 @@
       "h": "MIN",
       "an": "Milwaukee Bucks",
       "hn": "Minnesota Timberwolves",
-      "as": 0,
-      "hs": 0,
+      "as": 100,
+      "hs": 112,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        18,
+        29,
+        29,
+        24
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        19,
+        32,
+        32
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909916",
@@ -2740,24 +2740,24 @@
       "h": "HOU",
       "an": "Boston Celtics",
       "hn": "Houston Rockets",
-      "as": 0,
-      "hs": 0,
+      "as": 93,
+      "hs": 109,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        21,
+        23,
+        20
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        28,
+        25,
+        27
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909917",
@@ -2767,24 +2767,24 @@
       "h": "SA",
       "an": "Utah Jazz",
       "hn": "San Antonio Spurs",
-      "as": 0,
-      "hs": 0,
+      "as": 97,
+      "hs": 117,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        16,
+        33,
+        20,
+        28
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        27,
+        32,
+        35,
+        23
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909918",
@@ -2794,24 +2794,24 @@
       "h": "DEN",
       "an": "Portland Trail Blazers",
       "hn": "Denver Nuggets",
-      "as": 0,
-      "hs": 0,
+      "as": 89,
+      "hs": 89,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        19,
+        39,
+        27,
+        4
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        31,
+        35,
+        21,
+        2
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909919",
@@ -2821,24 +2821,24 @@
       "h": "GS",
       "an": "Phoenix Suns",
       "hn": "Golden State Warriors",
-      "as": 0,
-      "hs": 0,
+      "as": 55,
+      "hs": 39,
       "aq": [
-        null,
-        null,
+        31,
+        24,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        19,
+        20,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909920",
@@ -2848,24 +2848,24 @@
       "h": "LAC",
       "an": "Toronto Raptors",
       "hn": "LA Clippers",
-      "as": 0,
-      "hs": 0,
+      "as": 40,
+      "hs": 49,
       "aq": [
-        null,
-        null,
+        22,
+        16,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        33,
+        16,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909921",
@@ -2875,24 +2875,24 @@
       "h": "LAL",
       "an": "Miami Heat",
       "hn": "Los Angeles Lakers",
-      "as": 0,
-      "hs": 0,
+      "as": 48,
+      "hs": 50,
       "aq": [
-        null,
-        null,
+        30,
+        18,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        37,
+        13,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     }
   ],
   "snapshots": [
@@ -9663,10 +9663,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 229,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909908|FG",
@@ -9748,10 +9749,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 215,
+      "y": 1,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909910|FG",
@@ -9833,10 +9835,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 193,
+      "y": 0,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909911|FG",
@@ -9918,10 +9921,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 197,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909912|FG",
@@ -10003,10 +10007,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 233,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909914|FG",
@@ -10088,10 +10093,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 269,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909915|FG",
@@ -10173,10 +10179,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 212,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909916|FG",
@@ -10258,10 +10265,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 202,
+      "y": 0,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909917|FG",
@@ -10513,10 +10521,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 107,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909908|H1",
@@ -10598,10 +10607,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 119,
+      "y": 1,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909909|H1",
@@ -10683,10 +10693,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 124,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909909|FG",
@@ -10768,10 +10779,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 212,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909910|H1",
@@ -10853,10 +10865,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 95,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909911|H1",
@@ -10938,10 +10951,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 119,
+      "y": 1,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909912|H1",
@@ -11023,10 +11037,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 123,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909913|H1",
@@ -11108,10 +11123,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 107,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909913|FG",
@@ -11193,10 +11209,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 215,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909914|H1",
@@ -11278,10 +11295,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 121,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909915|H1",
@@ -11363,10 +11381,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 95,
+      "y": 0,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909916|H1",
@@ -11448,10 +11467,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 107,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909917|H1",
@@ -12137,7 +12157,7 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 15,
+    "eligible": 0,
     "h1PbpAdded": 0,
     "recorded": 0,
     "missing": [],
