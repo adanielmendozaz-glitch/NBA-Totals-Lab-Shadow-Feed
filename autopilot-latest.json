@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-04T21:51:08.426Z",
+  "generatedAt": "2026-11-05T02:23:19.144Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -2902,24 +2902,24 @@
       "h": "DET",
       "an": "Philadelphia 76ers",
       "hn": "Detroit Pistons",
-      "as": 0,
-      "hs": 0,
+      "as": 97,
+      "hs": 86,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        27,
+        35,
+        6
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        21,
+        21,
+        33,
+        11
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909923",
@@ -2929,24 +2929,24 @@
       "h": "WSH",
       "an": "Atlanta Hawks",
       "hn": "Washington Wizards",
-      "as": 0,
-      "hs": 0,
+      "as": 120,
+      "hs": 105,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        37,
+        31,
+        25,
+        27
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        32,
+        29,
+        24,
+        20
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909924",
@@ -2956,24 +2956,24 @@
       "h": "BOS",
       "an": "Milwaukee Bucks",
       "hn": "Boston Celtics",
-      "as": 0,
-      "hs": 0,
+      "as": 87,
+      "hs": 91,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        14,
+        27,
+        38,
+        8
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        28,
+        34,
+        25,
+        4
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909925",
@@ -2983,24 +2983,24 @@
       "h": "BKN",
       "an": "Charlotte Hornets",
       "hn": "Brooklyn Nets",
-      "as": 0,
-      "hs": 0,
+      "as": 65,
+      "hs": 67,
       "aq": [
-        null,
-        null,
-        null,
+        24,
+        33,
+        8,
         null
       ],
       "hq": [
-        null,
-        null,
-        null,
+        21,
+        29,
+        16,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909926",
@@ -3010,24 +3010,24 @@
       "h": "NY",
       "an": "Chicago Bulls",
       "hn": "New York Knicks",
-      "as": 0,
-      "hs": 0,
+      "as": 67,
+      "hs": 111,
       "aq": [
-        null,
-        null,
-        null,
+        21,
+        31,
+        15,
         null
       ],
       "hq": [
-        null,
-        null,
-        null,
+        43,
+        41,
+        27,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909927",
@@ -3037,24 +3037,24 @@
       "h": "MEM",
       "an": "Indiana Pacers",
       "hn": "Memphis Grizzlies",
-      "as": 0,
-      "hs": 0,
+      "as": 54,
+      "hs": 54,
       "aq": [
-        null,
-        null,
-        null,
+        32,
+        22,
+        0,
         null
       ],
       "hq": [
-        null,
-        null,
-        null,
+        24,
+        28,
+        2,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909928",
@@ -3064,24 +3064,24 @@
       "h": "NO",
       "an": "Utah Jazz",
       "hn": "New Orleans Pelicans",
-      "as": 0,
-      "hs": 0,
+      "as": 37,
+      "hs": 42,
       "aq": [
-        null,
-        null,
+        24,
+        13,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        24,
+        18,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909929",
@@ -3091,24 +3091,24 @@
       "h": "OKC",
       "an": "Cleveland Cavaliers",
       "hn": "Oklahoma City Thunder",
-      "as": 0,
-      "hs": 0,
+      "as": 46,
+      "hs": 60,
       "aq": [
-        null,
-        null,
-        null,
+        20,
+        24,
+        2,
         null
       ],
       "hq": [
-        null,
-        null,
-        null,
+        37,
+        23,
+        0,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909930",
@@ -3118,24 +3118,24 @@
       "h": "HOU",
       "an": "Minnesota Timberwolves",
       "hn": "Houston Rockets",
-      "as": 0,
-      "hs": 0,
+      "as": 44,
+      "hs": 41,
       "aq": [
-        null,
-        null,
+        33,
+        11,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        30,
+        14,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909931",
@@ -3145,24 +3145,24 @@
       "h": "DEN",
       "an": "Toronto Raptors",
       "hn": "Denver Nuggets",
-      "as": 0,
-      "hs": 0,
+      "as": 22,
+      "hs": 14,
       "aq": [
-        null,
+        22,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        14,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909932",
@@ -3172,24 +3172,24 @@
       "h": "PHX",
       "an": "Portland Trail Blazers",
       "hn": "Phoenix Suns",
-      "as": 0,
-      "hs": 0,
+      "as": 14,
+      "hs": 19,
       "aq": [
-        null,
+        14,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        19,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909933",
@@ -14978,10 +14978,10 @@
   ],
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 2,
-    "eligible": 16,
+    "gamesScanned": 0,
+    "eligible": 5,
     "h1PbpAdded": 0,
-    "recorded": 14,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909936",
