@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-08T20:26:49.293Z",
+  "generatedAt": "2026-11-09T00:00:47.330Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -3766,24 +3766,24 @@
       "h": "CHI",
       "an": "Philadelphia 76ers",
       "hn": "Chicago Bulls",
-      "as": 0,
-      "hs": 0,
+      "as": 127,
+      "hs": 121,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        34,
+        34,
+        31,
+        28
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        33,
+        28,
+        32,
+        28
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909946",
@@ -3793,24 +3793,24 @@
       "h": "DET",
       "an": "Los Angeles Lakers",
       "hn": "Detroit Pistons",
-      "as": 0,
-      "hs": 0,
+      "as": 53,
+      "hs": 38,
       "aq": [
-        null,
-        null,
+        38,
+        15,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        14,
+        24,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909947",
@@ -19016,10 +19016,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 248,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909946|FG",
@@ -19526,10 +19527,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 129,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909946|H1",
@@ -20300,9 +20302,9 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 15,
+    "eligible": 12,
     "h1PbpAdded": 0,
-    "recorded": 2,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909952",
