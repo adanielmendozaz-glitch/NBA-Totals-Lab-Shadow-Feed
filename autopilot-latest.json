@@ -25734,10 +25734,10 @@
   ],
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 9,
+    "gamesScanned": 0,
     "eligible": 13,
     "h1PbpAdded": 0,
-    "recorded": 5,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401909296",
