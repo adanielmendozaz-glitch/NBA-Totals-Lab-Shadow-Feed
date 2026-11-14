@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-13T10:53:38.270Z",
+  "generatedAt": "2026-11-14T02:23:56.772Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -769,24 +769,24 @@
       "h": "IND",
       "an": "New York Knicks",
       "hn": "Indiana Pacers",
-      "as": 0,
-      "hs": 0,
+      "as": 94,
+      "hs": 102,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        27,
+        22,
+        35,
+        10
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        26,
+        32,
+        27,
+        17
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909297",
@@ -796,24 +796,24 @@
       "h": "ORL",
       "an": "Milwaukee Bucks",
       "hn": "Orlando Magic",
-      "as": 0,
-      "hs": 0,
+      "as": 91,
+      "hs": 102,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        15,
+        22,
+        35,
+        19
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        23,
+        29,
+        32,
+        18
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909298",
@@ -823,24 +823,24 @@
       "h": "MIA",
       "an": "Cleveland Cavaliers",
       "hn": "Miami Heat",
-      "as": 0,
-      "hs": 0,
+      "as": 57,
+      "hs": 54,
       "aq": [
-        null,
-        null,
+        27,
+        30,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        29,
+        25,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909299",
@@ -850,24 +850,24 @@
       "h": "CHI",
       "an": "Atlanta Hawks",
       "hn": "Chicago Bulls",
-      "as": 0,
-      "hs": 0,
+      "as": 56,
+      "hs": 63,
       "aq": [
-        null,
-        null,
-        null,
+        24,
+        29,
+        3,
         null
       ],
       "hq": [
-        null,
-        null,
-        null,
+        33,
+        27,
+        3,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909300",
@@ -877,24 +877,24 @@
       "h": "NO",
       "an": "Memphis Grizzlies",
       "hn": "New Orleans Pelicans",
-      "as": 0,
-      "hs": 0,
+      "as": 70,
+      "hs": 58,
       "aq": [
-        null,
-        null,
+        35,
+        35,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        28,
+        30,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909301",
@@ -904,24 +904,24 @@
       "h": "HOU",
       "an": "Utah Jazz",
       "hn": "Houston Rockets",
-      "as": 0,
-      "hs": 0,
+      "as": 39,
+      "hs": 39,
       "aq": [
-        null,
-        null,
+        27,
+        12,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        27,
+        12,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909302",
@@ -27408,7 +27408,7 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 14,
+    "eligible": 8,
     "h1PbpAdded": 0,
     "recorded": 0,
     "missing": [
