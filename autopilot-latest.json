@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-14T09:24:12.267Z",
+  "generatedAt": "2026-11-15T00:21:45.437Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -4954,24 +4954,24 @@
       "h": "NO",
       "an": "Denver Nuggets",
       "hn": "New Orleans Pelicans",
-      "as": 0,
-      "hs": 0,
+      "as": 13,
+      "hs": 9,
       "aq": [
-        null,
+        13,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        9,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909981",
@@ -28519,7 +28519,7 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 14,
+    "eligible": 13,
     "h1PbpAdded": 0,
     "recorded": 0,
     "missing": [
