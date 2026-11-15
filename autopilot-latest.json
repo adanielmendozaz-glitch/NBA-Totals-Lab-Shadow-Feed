@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-15T07:11:34.086Z",
+  "generatedAt": "2026-11-15T21:00:30.973Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -5089,24 +5089,24 @@
       "h": "PHI",
       "an": "Indiana Pacers",
       "hn": "Philadelphia 76ers",
-      "as": 0,
-      "hs": 0,
+      "as": 124,
+      "hs": 131,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        35,
+        22,
+        30,
+        37
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        29,
+        39,
+        34
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401909986",
@@ -28821,10 +28821,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 115,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401909985|FG",
@@ -28906,10 +28907,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 255,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401909986|H1",
@@ -30275,7 +30277,7 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 17,
+    "eligible": 15,
     "h1PbpAdded": 0,
     "recorded": 0,
     "missing": [
