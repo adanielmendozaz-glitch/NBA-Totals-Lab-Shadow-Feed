@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-16T07:56:59.852Z",
+  "generatedAt": "2026-11-17T00:13:17.426Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -5333,23 +5333,23 @@
       "an": "Orlando Magic",
       "hn": "Boston Celtics",
       "as": 0,
-      "hs": 0,
+      "hs": 5,
       "aq": [
-        null,
+        0,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        5,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909995",
@@ -5359,24 +5359,24 @@
       "h": "CLE",
       "an": "Chicago Bulls",
       "hn": "Cleveland Cavaliers",
-      "as": 0,
-      "hs": 0,
+      "as": 7,
+      "hs": 7,
       "aq": [
-        null,
+        7,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        7,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909996",
@@ -5386,24 +5386,24 @@
       "h": "WSH",
       "an": "Memphis Grizzlies",
       "hn": "Washington Wizards",
-      "as": 0,
+      "as": 2,
       "hs": 0,
       "aq": [
-        null,
+        2,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        0,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909997",
@@ -31787,10 +31787,10 @@
   ],
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 5,
-    "eligible": 13,
+    "gamesScanned": 0,
+    "eligible": 10,
     "h1PbpAdded": 0,
-    "recorded": 15,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401910002",
