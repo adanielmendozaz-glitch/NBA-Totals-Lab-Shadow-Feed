@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-18T13:54:38.606Z",
+  "generatedAt": "2026-11-18T22:56:10.659Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -35131,6 +35131,91 @@
       "actual": null,
       "y": null,
       "official": true
+    },
+    {
+      "id": "401910022|FG",
+      "gameId": "401910022",
+      "market": "FG",
+      "createdAt": "2026-11-18T22:56:10.659Z",
+      "gameTip": "2026-11-20T01:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "1xbet",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-18T22:52:05Z",
+      "overOdds": 1.93,
+      "underOdds": 1.93,
+      "mu": 226.38266666666664,
+      "sd": 17.985618154919305,
+      "na": 13,
+      "nh": 15,
+      "line": 224.5,
+      "side": "OVER",
+      "p": 0.5421449474247799,
+      "rawP": {
+        "poisson": 0.5325,
+        "markov": 0.54185,
+        "nb": 0.54255,
+        "biv": 0.54505,
+        "bootstrap": 0.5545,
+        "bayes": 0.5367
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.5325,
+          "under": 0.4675,
+          "mean": 226.5204,
+          "sd": 21.863608664628092
+        },
+        "markov": {
+          "over": 0.54185,
+          "under": 0.45815,
+          "mean": 226.3038,
+          "sd": 17.019729890923866
+        },
+        "nb": {
+          "over": 0.54255,
+          "under": 0.45745,
+          "mean": 226.37565,
+          "sd": 16.78905110712036
+        },
+        "biv": {
+          "over": 0.54505,
+          "under": 0.45495,
+          "mean": 226.26145,
+          "sd": 16.438126228299293
+        },
+        "bootstrap": {
+          "over": 0.5545,
+          "under": 0.4455,
+          "mean": 226.4539,
+          "sd": 15.755198341817056
+        },
+        "bayes": {
+          "over": 0.5367,
+          "under": 0.4633,
+          "mean": 226.3808,
+          "sd": 20.047994696727155
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16861118543145376,
+        "markov": 0.16598961102391424,
+        "nb": 0.1658801011898023,
+        "biv": 0.16583485713209128,
+        "bootstrap": 0.16534540774189171,
+        "bayes": 0.16833883748084666
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
     }
   ],
   "patternIntelligence": {
@@ -35693,6 +35778,38 @@
         "status": "NO_MATCH",
         "actual": null,
         "margin": null
+      },
+      "401910022|FG": {
+        "avg": 0.5456,
+        "agree": true,
+        "rules": [],
+        "side": "OVER",
+        "bootstrap": 0.5545,
+        "bayes": 0.5367,
+        "sd": 15.755198341817056,
+        "delta": 0.017800000000000038,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910022|FG",
+        "gameId": "401910022",
+        "market": "FG",
+        "day": "2026-11-19",
+        "teams": "LAC @ SA",
+        "tip": "2026-11-20T01:00Z",
+        "line": 224.5,
+        "mean": 226.4539,
+        "odds": 1.93,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-18T22:56:10.659Z",
+        "quoteAt": "2026-11-18T22:52:05Z",
+        "book": "1xbet",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-18T22:56:10.659Z",
+        "phase": "PROSPECTIVE",
+        "status": "NO_MATCH",
+        "actual": null,
+        "margin": null
       }
     },
     "nearRecords": {
@@ -35828,15 +35945,48 @@
         "actual": null,
         "margin": null,
         "type": "BB-NEAR-SD"
+      },
+      "401910022|FG": {
+        "avg": 0.5456,
+        "agree": true,
+        "rules": [],
+        "side": "OVER",
+        "bootstrap": 0.5545,
+        "bayes": 0.5367,
+        "sd": 15.755198341817056,
+        "delta": 0.017800000000000038,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910022|FG",
+        "gameId": "401910022",
+        "market": "FG",
+        "day": "2026-11-19",
+        "teams": "LAC @ SA",
+        "tip": "2026-11-20T01:00Z",
+        "line": 224.5,
+        "mean": 226.4539,
+        "odds": 1.93,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-18T22:56:10.659Z",
+        "quoteAt": "2026-11-18T22:52:05Z",
+        "book": "1xbet",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-18T22:56:10.659Z",
+        "phase": "PROSPECTIVE",
+        "status": "PENDING",
+        "actual": null,
+        "margin": null,
+        "type": "BB-NEAR-SD"
       }
     }
   },
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 4,
+    "gamesScanned": 0,
     "eligible": 16,
     "h1PbpAdded": 0,
-    "recorded": 12,
+    "recorded": 1,
     "missing": [
       {
         "gameId": "401910019",
@@ -35871,11 +36021,6 @@
       {
         "gameId": "401910022",
         "market": "H1",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
-        "gameId": "401910022",
-        "market": "FG",
         "reason": "NO_VERIFIED_LINE"
       }
     ],
