@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-21T11:46:25.743Z",
+  "generatedAt": "2026-11-21T21:37:39.117Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -6358,24 +6358,24 @@
       "h": "PHI",
       "an": "Milwaukee Bucks",
       "hn": "Philadelphia 76ers",
-      "as": 0,
-      "hs": 0,
+      "as": 129,
+      "hs": 132,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        30,
+        29,
+        33,
+        37
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        31,
+        38,
+        34
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401910024",
@@ -38066,10 +38066,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 261,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401910024|FG",
@@ -38491,10 +38492,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 119,
+      "y": 1,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401910024|H1",
@@ -40035,9 +40037,10 @@
         "runs": 20000,
         "registeredAt": "2026-11-21T03:30:01.995Z",
         "phase": "PROSPECTIVE",
-        "status": "PENDING",
-        "actual": null,
-        "margin": null
+        "status": "LOSS",
+        "actual": 261,
+        "margin": -31.5,
+        "gradedAt": "2026-11-21T21:37:39.117Z"
       },
       "401910024|FG": {
         "avg": 0.590025,
@@ -40445,10 +40448,10 @@
   },
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 7,
-    "eligible": 13,
+    "gamesScanned": 0,
+    "eligible": 12,
     "h1PbpAdded": 0,
-    "recorded": 7,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401910029",
