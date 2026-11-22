@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T08:49:57.022Z",
+  "generatedAt": "2026-11-22T21:44:25.006Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -6520,24 +6520,24 @@
       "h": "ATL",
       "an": "Detroit Pistons",
       "hn": "Atlanta Hawks",
-      "as": 0,
-      "hs": 0,
+      "as": 52,
+      "hs": 51,
       "aq": [
-        null,
-        null,
+        26,
+        26,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        29,
+        22,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401910030",
@@ -42177,10 +42177,10 @@
   },
   "advanced": {},
   "diagnostics": {
-    "gamesScanned": 10,
-    "eligible": 17,
+    "gamesScanned": 0,
+    "eligible": 16,
     "h1PbpAdded": 0,
-    "recorded": 9,
+    "recorded": 0,
     "missing": [
       {
         "gameId": "401910036",
