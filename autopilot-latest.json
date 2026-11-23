@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-22T21:44:25.006Z",
+  "generatedAt": "2026-11-23T02:42:21.823Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -6520,24 +6520,24 @@
       "h": "ATL",
       "an": "Detroit Pistons",
       "hn": "Atlanta Hawks",
-      "as": 52,
-      "hs": 51,
+      "as": 97,
+      "hs": 107,
       "aq": [
         26,
         26,
-        null,
-        null
+        33,
+        12
       ],
       "hq": [
         29,
         22,
-        null,
-        null
+        23,
+        33
       ],
-      "final": false,
-      "live": true,
+      "final": true,
+      "live": false,
       "phase": 2,
-      "state": "in"
+      "state": "post"
     },
     {
       "id": "401910030",
@@ -6547,24 +6547,24 @@
       "h": "MIA",
       "an": "Oklahoma City Thunder",
       "hn": "Miami Heat",
-      "as": 0,
-      "hs": 0,
+      "as": 113,
+      "hs": 123,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        24,
+        30,
+        26,
+        33
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        36,
+        31,
+        28,
+        28
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401910031",
@@ -6574,24 +6574,24 @@
       "h": "WSH",
       "an": "Orlando Magic",
       "hn": "Washington Wizards",
-      "as": 0,
-      "hs": 0,
+      "as": 96,
+      "hs": 116,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        21,
+        30,
+        26,
+        19
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        38,
+        25,
+        34,
+        19
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401910032",
@@ -6601,24 +6601,24 @@
       "h": "CHI",
       "an": "Denver Nuggets",
       "hn": "Chicago Bulls",
-      "as": 0,
-      "hs": 0,
+      "as": 151,
+      "hs": 145,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        33,
+        39,
+        33,
+        26
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        31,
+        39,
+        25,
+        36
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401910033",
@@ -6628,24 +6628,24 @@
       "h": "UTAH",
       "an": "Dallas Mavericks",
       "hn": "Utah Jazz",
-      "as": 0,
-      "hs": 0,
+      "as": 116,
+      "hs": 114,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        33,
+        31,
+        27,
+        25
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        35,
+        22,
+        17,
+        40
       ],
-      "final": false,
+      "final": true,
       "live": false,
       "phase": 2,
-      "state": "pre"
+      "state": "post"
     },
     {
       "id": "401910034",
@@ -6655,24 +6655,24 @@
       "h": "NY",
       "an": "Indiana Pacers",
       "hn": "New York Knicks",
-      "as": 0,
-      "hs": 0,
+      "as": 64,
+      "hs": 69,
       "aq": [
-        null,
-        null,
-        null,
+        26,
+        25,
+        13,
         null
       ],
       "hq": [
-        null,
-        null,
-        null,
+        26,
+        29,
+        14,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401910035",
@@ -6682,24 +6682,24 @@
       "h": "GS",
       "an": "Boston Celtics",
       "hn": "Golden State Warriors",
-      "as": 0,
-      "hs": 0,
+      "as": 42,
+      "hs": 44,
       "aq": [
-        null,
-        null,
+        20,
+        22,
         null,
         null
       ],
       "hq": [
-        null,
-        null,
+        27,
+        17,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401910036",
@@ -39368,10 +39368,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 204,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401910030|FG",
@@ -39453,10 +39454,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 236,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401910031|FG",
@@ -39538,10 +39540,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 212,
+      "y": 0,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401910032|FG",
@@ -39623,10 +39626,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 296,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401910035|FG",
@@ -39793,10 +39797,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 103,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401910030|H1",
@@ -39878,10 +39883,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 121,
+      "y": 1,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401910031|H1",
@@ -39963,10 +39969,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 114,
+      "y": 0,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401910032|H1",
@@ -40048,10 +40055,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 142,
+      "y": 1,
+      "official": true,
+      "result": "WIN"
     },
     {
       "id": "401910033|H1",
@@ -40133,10 +40141,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 121,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401910033|FG",
@@ -40218,10 +40227,11 @@
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
       "officialInjurySnapshot": null,
-      "status": "PENDING",
-      "actual": null,
-      "y": null,
-      "official": true
+      "status": "FINAL",
+      "actual": 230,
+      "y": 1,
+      "official": true,
+      "result": "LOSS"
     },
     {
       "id": "401910034|H1",
@@ -40469,6 +40479,771 @@
         "biv": 0.16532449352711254,
         "bootstrap": 0.16478036910477944,
         "bayes": 0.16927983692271883
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910036|FG",
+      "gameId": "401910036",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T00:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.909,
+      "underOdds": 1.909,
+      "mu": 222.177725,
+      "sd": 18.66257389595707,
+      "na": 17,
+      "nh": 15,
+      "line": 217.5,
+      "side": "OVER",
+      "p": 0.5989501729248187,
+      "rawP": {
+        "poisson": 0.5817,
+        "markov": 0.6097,
+        "nb": 0.60675,
+        "biv": 0.60525,
+        "bootstrap": 0.60425,
+        "bayes": 0.58665
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.5817,
+          "under": 0.4183,
+          "mean": 222.221,
+          "sd": 21.712965228176397
+        },
+        "markov": {
+          "over": 0.6097,
+          "under": 0.3903,
+          "mean": 222.2195,
+          "sd": 16.590208550527354
+        },
+        "nb": {
+          "over": 0.60675,
+          "under": 0.39325,
+          "mean": 222.34645,
+          "sd": 17.639311845916687
+        },
+        "biv": {
+          "over": 0.60525,
+          "under": 0.39475,
+          "mean": 222.0544,
+          "sd": 17.241387433730598
+        },
+        "bootstrap": {
+          "over": 0.60425,
+          "under": 0.39575,
+          "mean": 222.14945,
+          "sd": 18.14566655423532
+        },
+        "bayes": {
+          "over": 0.58665,
+          "under": 0.41335,
+          "mean": 222.07555,
+          "sd": 20.645903763156074
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910037|FG",
+      "gameId": "401910037",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T00:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.952,
+      "underOdds": 1.87,
+      "mu": 227.2559,
+      "sd": 18.919447930662646,
+      "na": 16,
+      "nh": 17,
+      "line": 229.5,
+      "side": "UNDER",
+      "p": 0.5485887041117774,
+      "rawP": {
+        "poisson": 0.5422,
+        "markov": 0.55205,
+        "nb": 0.5555,
+        "biv": 0.55105,
+        "bootstrap": 0.5411,
+        "bayes": 0.5497
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.4578,
+          "under": 0.5422,
+          "mean": 227.3153,
+          "sd": 22.237079077747527
+        },
+        "markov": {
+          "over": 0.44795,
+          "under": 0.55205,
+          "mean": 227.3325,
+          "sd": 17.055009344764304
+        },
+        "nb": {
+          "over": 0.4445,
+          "under": 0.5555,
+          "mean": 227.23825,
+          "sd": 18.196106367503468
+        },
+        "biv": {
+          "over": 0.44895,
+          "under": 0.55105,
+          "mean": 227.15225,
+          "sd": 17.575208958572745
+        },
+        "bootstrap": {
+          "over": 0.4589,
+          "under": 0.5411,
+          "mean": 227.35795,
+          "sd": 17.543298486815694
+        },
+        "bayes": {
+          "over": 0.4503,
+          "under": 0.5497,
+          "mean": 227.13915,
+          "sd": 20.90998534857214
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910039|FG",
+      "gameId": "401910039",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T00:30Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.943,
+      "underOdds": 1.877,
+      "mu": 226.98114999999999,
+      "sd": 18.359244163464293,
+      "na": 17,
+      "nh": 16,
+      "line": 224.5,
+      "side": "OVER",
+      "p": 0.5511885265185994,
+      "rawP": {
+        "poisson": 0.54365,
+        "markov": 0.56065,
+        "nb": 0.55205,
+        "biv": 0.5554,
+        "bootstrap": 0.5465,
+        "bayes": 0.54905
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.54365,
+          "under": 0.45635,
+          "mean": 227.13595,
+          "sd": 22.00705267857329
+        },
+        "markov": {
+          "over": 0.56065,
+          "under": 0.43935,
+          "mean": 226.9756,
+          "sd": 16.125383860237484
+        },
+        "nb": {
+          "over": 0.55205,
+          "under": 0.44795,
+          "mean": 227.02715,
+          "sd": 17.55966722000993
+        },
+        "biv": {
+          "over": 0.5554,
+          "under": 0.4446,
+          "mean": 226.9521,
+          "sd": 17.115569099214945
+        },
+        "bootstrap": {
+          "over": 0.5465,
+          "under": 0.4535,
+          "mean": 226.7752,
+          "sd": 17.03602550362017
+        },
+        "bayes": {
+          "over": 0.54905,
+          "under": 0.45095,
+          "mean": 227.0209,
+          "sd": 20.31176661912993
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910040|FG",
+      "gameId": "401910040",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T00:30Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.909,
+      "underOdds": 1.909,
+      "mu": 225.22400000000002,
+      "sd": 18.742007340063623,
+      "na": 15,
+      "nh": 17,
+      "line": 224.5,
+      "side": "OVER",
+      "p": 0.5106543599634168,
+      "rawP": {
+        "poisson": 0.51515,
+        "markov": 0.51785,
+        "nb": 0.51065,
+        "biv": 0.51125,
+        "bootstrap": 0.5001,
+        "bayes": 0.5088
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.51515,
+          "under": 0.48485,
+          "mean": 225.57215,
+          "sd": 21.775095737504984
+        },
+        "markov": {
+          "over": 0.51785,
+          "under": 0.48215,
+          "mean": 225.22835,
+          "sd": 16.656248265365747
+        },
+        "nb": {
+          "over": 0.51065,
+          "under": 0.48935,
+          "mean": 225.19055,
+          "sd": 18.05765878228679
+        },
+        "biv": {
+          "over": 0.51125,
+          "under": 0.48875,
+          "mean": 225.1831,
+          "sd": 17.657929504616398
+        },
+        "bootstrap": {
+          "over": 0.5001,
+          "under": 0.4999,
+          "mean": 225.07975,
+          "sd": 17.208773632583636
+        },
+        "bayes": {
+          "over": 0.5088,
+          "under": 0.4912,
+          "mean": 225.0901,
+          "sd": 21.096338118024157
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910041|FG",
+      "gameId": "401910041",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T01:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.909,
+      "underOdds": 1.909,
+      "mu": 236.48640833333332,
+      "sd": 18.63317308145086,
+      "na": 17,
+      "nh": 16,
+      "line": 240.5,
+      "side": "UNDER",
+      "p": 0.5871731815611627,
+      "rawP": {
+        "poisson": 0.5725,
+        "markov": 0.58565,
+        "nb": 0.59735,
+        "biv": 0.59415,
+        "bootstrap": 0.58895,
+        "bayes": 0.5848
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.4275,
+          "under": 0.5725,
+          "mean": 236.4435,
+          "sd": 22.833554426545046
+        },
+        "markov": {
+          "over": 0.41435,
+          "under": 0.58565,
+          "mean": 236.71695,
+          "sd": 17.361916158578378
+        },
+        "nb": {
+          "over": 0.40265,
+          "under": 0.59735,
+          "mean": 236.54675,
+          "sd": 17.406591120535328
+        },
+        "biv": {
+          "over": 0.40585,
+          "under": 0.59415,
+          "mean": 236.5077,
+          "sd": 16.98421740057507
+        },
+        "bootstrap": {
+          "over": 0.41105,
+          "under": 0.58895,
+          "mean": 236.37125,
+          "sd": 17.158610766536555
+        },
+        "bayes": {
+          "over": 0.4152,
+          "under": 0.5848,
+          "mean": 236.3323,
+          "sd": 20.054148615934775
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910042|FG",
+      "gameId": "401910042",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T01:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.893,
+      "underOdds": 1.926,
+      "mu": 231.9218666666667,
+      "sd": 20.002255078735754,
+      "na": 15,
+      "nh": 18,
+      "line": 233.5,
+      "side": "UNDER",
+      "p": 0.5316880355525273,
+      "rawP": {
+        "poisson": 0.5283,
+        "markov": 0.53755,
+        "nb": 0.53745,
+        "biv": 0.53485,
+        "bootstrap": 0.5234,
+        "bayes": 0.52865
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.4717,
+          "under": 0.5283,
+          "mean": 232.00105,
+          "sd": 22.370128495328238
+        },
+        "markov": {
+          "over": 0.46245,
+          "under": 0.53755,
+          "mean": 232.001,
+          "sd": 17.041229386402847
+        },
+        "nb": {
+          "over": 0.46255,
+          "under": 0.53745,
+          "mean": 231.96325,
+          "sd": 19.614961112311853
+        },
+        "biv": {
+          "over": 0.46515,
+          "under": 0.53485,
+          "mean": 231.87625,
+          "sd": 18.952132754323493
+        },
+        "bootstrap": {
+          "over": 0.4766,
+          "under": 0.5234,
+          "mean": 231.76595,
+          "sd": 19.204485689481416
+        },
+        "bayes": {
+          "over": 0.47135,
+          "under": 0.52865,
+          "mean": 231.9237,
+          "sd": 22.83059303456666
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910043|FG",
+      "gameId": "401910043",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T01:30Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.909,
+      "underOdds": 1.909,
+      "mu": 228.46381666666665,
+      "sd": 18.06859323593792,
+      "na": 15,
+      "nh": 17,
+      "line": 225.5,
+      "side": "OVER",
+      "p": 0.5637884508559371,
+      "rawP": {
+        "poisson": 0.55215,
+        "markov": 0.56965,
+        "nb": 0.56785,
+        "biv": 0.5738,
+        "bootstrap": 0.56965,
+        "bayes": 0.55015
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.55215,
+          "under": 0.44785,
+          "mean": 228.43135,
+          "sd": 22.11543775685881
+        },
+        "markov": {
+          "over": 0.56965,
+          "under": 0.43035,
+          "mean": 228.56415,
+          "sd": 16.65115866171157
+        },
+        "nb": {
+          "over": 0.56785,
+          "under": 0.43215,
+          "mean": 228.4833,
+          "sd": 16.983142262549393
+        },
+        "biv": {
+          "over": 0.5738,
+          "under": 0.4262,
+          "mean": 228.54895,
+          "sd": 16.61958795811461
+        },
+        "bootstrap": {
+          "over": 0.56965,
+          "under": 0.43035,
+          "mean": 228.6561,
+          "sd": 16.187922435877766
+        },
+        "bayes": {
+          "over": 0.55015,
+          "under": 0.44985,
+          "mean": 228.09905,
+          "sd": 19.85431034051536
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910044|FG",
+      "gameId": "401910044",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T03:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.909,
+      "underOdds": 1.909,
+      "mu": 228.77445,
+      "sd": 17.983543344109904,
+      "na": 18,
+      "nh": 17,
+      "line": 230.5,
+      "side": "UNDER",
+      "p": 0.5393683182467913,
+      "rawP": {
+        "poisson": 0.53685,
+        "markov": 0.5433,
+        "nb": 0.54025,
+        "biv": 0.54315,
+        "bootstrap": 0.53415,
+        "bayes": 0.53855
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.46315,
+          "under": 0.53685,
+          "mean": 228.80575,
+          "sd": 22.107214137867015
+        },
+        "markov": {
+          "over": 0.4567,
+          "under": 0.5433,
+          "mean": 228.73505,
+          "sd": 16.90127958166177
+        },
+        "nb": {
+          "over": 0.45975,
+          "under": 0.54025,
+          "mean": 228.8298,
+          "sd": 16.845489959036485
+        },
+        "biv": {
+          "over": 0.45685,
+          "under": 0.54315,
+          "mean": 228.7349,
+          "sd": 16.443154259143707
+        },
+        "bootstrap": {
+          "over": 0.46585,
+          "under": 0.53415,
+          "mean": 228.7461,
+          "sd": 16.260228620471345
+        },
+        "bayes": {
+          "over": 0.46145,
+          "under": 0.53855,
+          "mean": 228.7951,
+          "sd": 19.343893506479112
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
+      },
+      "simulationsPerMotor": 20000,
+      "intelSnapshot": null,
+      "officialInjurySnapshot": null,
+      "status": "PENDING",
+      "actual": null,
+      "y": null,
+      "official": true
+    },
+    {
+      "id": "401910045|FG",
+      "gameId": "401910045",
+      "market": "FG",
+      "createdAt": "2026-11-23T02:42:21.823Z",
+      "gameTip": "2026-11-24T03:00Z",
+      "source": "REMOTE_PREMATCH",
+      "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+      "intelligenceMethod": "POINTS_BASELINE",
+      "intelligenceHalfSample": 0,
+      "injuryPointsAdjustment": 0,
+      "book": "fanduel",
+      "quoteSource": "HOOPS_API",
+      "quoteAt": "2026-11-23T02:35:05Z",
+      "overOdds": 1.926,
+      "underOdds": 1.893,
+      "mu": 224.6757666666667,
+      "sd": 17.56576286776843,
+      "na": 17,
+      "nh": 16,
+      "line": 224.5,
+      "side": "OVER",
+      "p": 0.5021116473648561,
+      "rawP": {
+        "poisson": 0.49675,
+        "markov": 0.505,
+        "nb": 0.5042,
+        "biv": 0.49905,
+        "bootstrap": 0.5104,
+        "bayes": 0.4975
+      },
+      "modelProbs": {
+        "poisson": {
+          "over": 0.49675,
+          "under": 0.50325,
+          "mean": 224.75525,
+          "sd": 21.961487823859017
+        },
+        "markov": {
+          "over": 0.505,
+          "under": 0.495,
+          "mean": 224.81825,
+          "sd": 16.727193934952062
+        },
+        "nb": {
+          "over": 0.5042,
+          "under": 0.4958,
+          "mean": 224.855,
+          "sd": 16.936758101832925
+        },
+        "biv": {
+          "over": 0.49905,
+          "under": 0.50095,
+          "mean": 224.50985,
+          "sd": 16.36090165539472
+        },
+        "bootstrap": {
+          "over": 0.5104,
+          "under": 0.4896,
+          "mean": 224.6441,
+          "sd": 13.888060886603053
+        },
+        "bayes": {
+          "over": 0.4975,
+          "under": 0.5025,
+          "mean": 224.47215,
+          "sd": 19.520174803968796
+        }
+      },
+      "weightHistorySnapshot": {
+        "poisson": 0.16925933849029146,
+        "markov": 0.1658647648674917,
+        "nb": 0.16593881613530803,
+        "biv": 0.165510151960198,
+        "bootstrap": 0.16482754485060236,
+        "bayes": 0.1685993836961085
       },
       "simulationsPerMotor": 20000,
       "intelSnapshot": null,
@@ -41899,6 +42674,309 @@
         "status": "NO_MATCH",
         "actual": null,
         "margin": null
+      },
+      "401910036|FG": {
+        "avg": 0.59545,
+        "agree": true,
+        "rules": [],
+        "side": "OVER",
+        "bootstrap": 0.60425,
+        "bayes": 0.58665,
+        "sd": 18.14566655423532,
+        "delta": 0.01759999999999995,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910036|FG",
+        "gameId": "401910036",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "MEM @ CHA",
+        "tip": "2026-11-24T00:00Z",
+        "line": 217.5,
+        "mean": 222.14945,
+        "odds": 1.909,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "NO_MATCH",
+        "actual": null,
+        "margin": null
+      },
+      "401910037|FG": {
+        "avg": 0.5454,
+        "agree": true,
+        "rules": [
+          "BB-FG-02",
+          "BB-FG-02 UNDER"
+        ],
+        "side": "UNDER",
+        "bootstrap": 0.5411,
+        "bayes": 0.5497,
+        "sd": 17.543298486815694,
+        "delta": 0.008599999999999941,
+        "bootstrapSide": "UNDER",
+        "bayesSide": "UNDER",
+        "id": "401910037|FG",
+        "gameId": "401910037",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "POR @ PHI",
+        "tip": "2026-11-24T00:00Z",
+        "line": 229.5,
+        "mean": 227.35795,
+        "odds": 1.87,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "PENDING",
+        "actual": null,
+        "margin": null
+      },
+      "401910039|FG": {
+        "avg": 0.547775,
+        "agree": true,
+        "rules": [
+          "BB-FG-02",
+          "BB-FG-02 OVER"
+        ],
+        "side": "OVER",
+        "bootstrap": 0.5465,
+        "bayes": 0.54905,
+        "sd": 17.03602550362017,
+        "delta": 0.0025500000000000522,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910039|FG",
+        "gameId": "401910039",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "MIL @ TOR",
+        "tip": "2026-11-24T00:30Z",
+        "line": 224.5,
+        "mean": 226.7752,
+        "odds": 1.943,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "PENDING",
+        "actual": null,
+        "margin": null
+      },
+      "401910040|FG": {
+        "avg": 0.5044500000000001,
+        "agree": true,
+        "rules": [
+          "BB-FG-02",
+          "BB-FG-02 OVER"
+        ],
+        "side": "OVER",
+        "bootstrap": 0.5001,
+        "bayes": 0.5088,
+        "sd": 17.208773632583636,
+        "delta": 0.008700000000000041,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910040|FG",
+        "gameId": "401910040",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "BKN @ MIN",
+        "tip": "2026-11-24T00:30Z",
+        "line": 224.5,
+        "mean": 225.07975,
+        "odds": 1.909,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "PENDING",
+        "actual": null,
+        "margin": null
+      },
+      "401910041|FG": {
+        "avg": 0.586875,
+        "agree": true,
+        "rules": [],
+        "side": "UNDER",
+        "bootstrap": 0.58895,
+        "bayes": 0.5848,
+        "sd": 17.158610766536555,
+        "delta": 0.004149999999999987,
+        "bootstrapSide": "UNDER",
+        "bayesSide": "UNDER",
+        "id": "401910041|FG",
+        "gameId": "401910041",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "CLE @ CHI",
+        "tip": "2026-11-24T01:00Z",
+        "line": 240.5,
+        "mean": 236.37125,
+        "odds": 1.909,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "NO_MATCH",
+        "actual": null,
+        "margin": null
+      },
+      "401910042|FG": {
+        "avg": 0.526025,
+        "agree": true,
+        "rules": [
+          "BB-FG-02",
+          "BB-FG-02 UNDER"
+        ],
+        "side": "UNDER",
+        "bootstrap": 0.5234,
+        "bayes": 0.52865,
+        "sd": 19.204485689481416,
+        "delta": 0.005249999999999977,
+        "bootstrapSide": "UNDER",
+        "bayesSide": "UNDER",
+        "id": "401910042|FG",
+        "gameId": "401910042",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "PHX @ NO",
+        "tip": "2026-11-24T01:00Z",
+        "line": 233.5,
+        "mean": 231.76595,
+        "odds": 1.926,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "PENDING",
+        "actual": null,
+        "margin": null
+      },
+      "401910043|FG": {
+        "avg": 0.5599000000000001,
+        "agree": true,
+        "rules": [],
+        "side": "OVER",
+        "bootstrap": 0.56965,
+        "bayes": 0.55015,
+        "sd": 16.187922435877766,
+        "delta": 0.019499999999999962,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910043|FG",
+        "gameId": "401910043",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "LAC @ HOU",
+        "tip": "2026-11-24T01:30Z",
+        "line": 225.5,
+        "mean": 228.6561,
+        "odds": 1.909,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "NO_MATCH",
+        "actual": null,
+        "margin": null
+      },
+      "401910044|FG": {
+        "avg": 0.53635,
+        "agree": true,
+        "rules": [
+          "BB-FG-02",
+          "BB-FG-02 UNDER"
+        ],
+        "side": "UNDER",
+        "bootstrap": 0.53415,
+        "bayes": 0.53855,
+        "sd": 16.260228620471345,
+        "delta": 0.0043999999999999595,
+        "bootstrapSide": "UNDER",
+        "bayesSide": "UNDER",
+        "id": "401910044|FG",
+        "gameId": "401910044",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "UTAH @ LAL",
+        "tip": "2026-11-24T03:00Z",
+        "line": 230.5,
+        "mean": 228.7461,
+        "odds": 1.909,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "PENDING",
+        "actual": null,
+        "margin": null
+      },
+      "401910045|FG": {
+        "avg": 0.50645,
+        "agree": false,
+        "rules": [],
+        "side": null,
+        "bootstrap": 0.5104,
+        "bayes": 0.5025,
+        "sd": 13.888060886603053,
+        "delta": 0.007900000000000018,
+        "bootstrapSide": "OVER",
+        "bayesSide": "UNDER",
+        "id": "401910045|FG",
+        "gameId": "401910045",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "SA @ SAC",
+        "tip": "2026-11-24T03:00Z",
+        "line": 224.5,
+        "mean": 224.6441,
+        "odds": null,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
+        "status": "NO_MATCH",
+        "actual": null,
+        "margin": null
       }
     },
     "nearRecords": {
@@ -42168,19 +43246,53 @@
         "runs": 20000,
         "registeredAt": "2026-11-22T08:49:57.022Z",
         "phase": "PROSPECTIVE",
+        "status": "LOSS",
+        "actual": 230,
+        "margin": -4.5,
+        "type": "BB-NEAR-SD",
+        "gradedAt": "2026-11-23T02:42:21.823Z"
+      },
+      "401910043|FG": {
+        "avg": 0.5599000000000001,
+        "agree": true,
+        "rules": [],
+        "side": "OVER",
+        "bootstrap": 0.56965,
+        "bayes": 0.55015,
+        "sd": 16.187922435877766,
+        "delta": 0.019499999999999962,
+        "bootstrapSide": "OVER",
+        "bayesSide": "OVER",
+        "id": "401910043|FG",
+        "gameId": "401910043",
+        "market": "FG",
+        "day": "2026-11-23",
+        "teams": "LAC @ HOU",
+        "tip": "2026-11-24T01:30Z",
+        "line": 225.5,
+        "mean": 228.6561,
+        "odds": 1.909,
+        "source": "REMOTE_PREMATCH",
+        "createdAt": "2026-11-23T02:42:21.823Z",
+        "quoteAt": "2026-11-23T02:35:05Z",
+        "book": "fanduel",
+        "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
+        "runs": 20000,
+        "registeredAt": "2026-11-23T02:42:21.823Z",
+        "phase": "PROSPECTIVE",
         "status": "PENDING",
         "actual": null,
         "margin": null,
-        "type": "BB-NEAR-SD"
+        "type": "BB-NEAR-PROB"
       }
     }
   },
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 16,
+    "eligible": 10,
     "h1PbpAdded": 0,
-    "recorded": 0,
+    "recorded": 9,
     "missing": [
       {
         "gameId": "401910036",
@@ -42188,18 +43300,8 @@
         "reason": "NO_VERIFIED_LINE"
       },
       {
-        "gameId": "401910036",
-        "market": "FG",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
         "gameId": "401910037",
         "market": "H1",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
-        "gameId": "401910037",
-        "market": "FG",
         "reason": "NO_VERIFIED_LINE"
       },
       {
@@ -42218,18 +43320,8 @@
         "reason": "NO_VERIFIED_LINE"
       },
       {
-        "gameId": "401910039",
-        "market": "FG",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
         "gameId": "401910040",
         "market": "H1",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
-        "gameId": "401910040",
-        "market": "FG",
         "reason": "NO_VERIFIED_LINE"
       },
       {
@@ -42238,18 +43330,8 @@
         "reason": "NO_VERIFIED_LINE"
       },
       {
-        "gameId": "401910041",
-        "market": "FG",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
         "gameId": "401910042",
         "market": "H1",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
-        "gameId": "401910042",
-        "market": "FG",
         "reason": "NO_VERIFIED_LINE"
       },
       {
@@ -42258,28 +43340,13 @@
         "reason": "NO_VERIFIED_LINE"
       },
       {
-        "gameId": "401910043",
-        "market": "FG",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
         "gameId": "401910044",
         "market": "H1",
         "reason": "NO_VERIFIED_LINE"
       },
       {
-        "gameId": "401910044",
-        "market": "FG",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
         "gameId": "401910045",
         "market": "H1",
-        "reason": "NO_VERIFIED_LINE"
-      },
-      {
-        "gameId": "401910045",
-        "market": "FG",
         "reason": "NO_VERIFIED_LINE"
       }
     ],
