@@ -1,7 +1,7 @@
 {
   "schema": "nba-shadow-autopilot/v1",
   "season": "2026-27",
-  "generatedAt": "2026-11-25T09:11:29.085Z",
+  "generatedAt": "2026-11-26T00:17:05.268Z",
   "source": "GitHub Actions",
   "modelVersion": "NBA-1.9-AUTOPILOT-SIX",
   "games": [
@@ -1336,24 +1336,24 @@
       "h": "PHI",
       "an": "Miami Heat",
       "hn": "Philadelphia 76ers",
-      "as": 0,
-      "hs": 0,
+      "as": 93,
+      "hs": 104,
       "aq": [
-        null,
-        null,
-        null,
-        null
+        32,
+        21,
+        28,
+        12
       ],
       "hq": [
-        null,
-        null,
-        null,
-        null
+        29,
+        33,
+        28,
+        14
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909318",
@@ -1363,24 +1363,24 @@
       "h": "CHA",
       "an": "Chicago Bulls",
       "hn": "Charlotte Hornets",
-      "as": 0,
-      "hs": 0,
+      "as": 4,
+      "hs": 6,
       "aq": [
-        null,
+        4,
         null,
         null,
         null
       ],
       "hq": [
-        null,
+        6,
         null,
         null,
         null
       ],
       "final": false,
-      "live": false,
+      "live": true,
       "phase": 2,
-      "state": "pre"
+      "state": "in"
     },
     {
       "id": "401909319",
@@ -47112,9 +47112,9 @@
   "advanced": {},
   "diagnostics": {
     "gamesScanned": 0,
-    "eligible": 9,
+    "eligible": 7,
     "h1PbpAdded": 0,
-    "recorded": 10,
+    "recorded": 0,
     "missing": [],
     "fetchErrors": []
   }
